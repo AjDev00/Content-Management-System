@@ -1,0 +1,14 @@
+.fullbody{
+    background-image: url('../img/img1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+
+p{
+    color: white;
+}
+
+h6{
+    color: red;
+}
